@@ -812,6 +812,7 @@ p {
 .single-services {
   padding: 50px 30px;
   background-color: #fff;
+  height: 85%;
   -webkit-transition: all 0.4s ease-out 0s;
   -moz-transition: all 0.4s ease-out 0s;
   -ms-transition: all 0.4s ease-out 0s;
